@@ -40,7 +40,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 ### **Step 1: Make Some Slip**
 1. Take a small piece of air-dry clay and place it in a bowl or cup.
 2. Add some water (**water-clay ratio = 1:3**) and mix it with a brush or a stick.
-3. Set it aside for later use. **This slip will act as glue** to attach clay pieces together more securely.
+3. Set it aside for later use. This slip will act as glue to attach clay pieces together more securely.
 
 <img src="images/Slip.png" alt="Slip Preparation" width="400"/>
 
@@ -51,7 +51,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 1. Take a chunk of air-dry clay and knead it to soften.
 2. **Even slab trick:** Use two stacked wooden pieces on both sides of the air-dry clay.
 3. Roll it out into a flat piece (**4-6 inches in diameter, 1/4-inch thick**) using a rolling pin.
-4. Use a **small bowl or cookie cutter** to cut out a circle.
+4. Use a small bowl or cookie cutter to cut out a circle.
 5. Smooth the edges with your fingers using a little slip and water.
 
 <img src="images/Slab.png" alt="Slab Process" width="400"/>
@@ -66,9 +66,9 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 ---
 
 ### **Step 3: Score & Slip**
-1. Score both the **coil surface and the outer rim of the plate** using hatch marks.
-2. Apply **slip** to the hatched areas as glue.
-3. Smooth the surface with slip to create a **strong bond**.
+1. Score both the coil surface and the outer rim of the plate using hatch marks.
+2. Apply slip to the hatched areas as glue.
+3. Smooth the surface with slip to create a strong bond.
 
 <img src="images/Score.png" alt="Scoring the Clay" width="400"/>
 <img src="images/Score2.png" alt="Scoring the Clay" width="400"/>
@@ -78,7 +78,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 ### **Step 4: Shape the Cactus Arms**
 1. Roll a small piece of clay into a **thick cylinder (2-3 inches tall)** for the cactus trunk.
 2. Roll out **two smaller, thinner cylinders** and bend them to mimic cactus arms.
-3. Smooth the surface with **slip** if necessary.
+3. Smooth the surface with slip if necessary.
 
 <img src="images/Cactus.png" alt="Cactus" width="400"/>
 
@@ -86,7 +86,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 
 <img src="images/Cactus_Unsmoothed.png" alt="Cactus Unsmoothed" width="400"/>
 
-5. Attach the arm to the trunk using **score and slip** (see Step 3).
+5. Attach the arm to the trunk using score and slip (see Step 3).
 
 <img src="images/Cactus_Smoothed.png" alt="Cactus Smoothed" width="400"/>
 
@@ -100,7 +100,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
  <img src="images/Connection.png" alt="Cactus Connection" width="400"/>
  
 2. Gently press the cactus onto the center of the plate.
-3. Use **slip** to secure the connection.
+3. Use slip to secure the connection.
 4. Blend and smooth the seams where the pieces join.
 5. Let it sit for a few minutes to ensure stability.
 
@@ -116,18 +116,18 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 ---
 
 ### **Step 7: Sand & Paint**
-1. *(Optional)* Sand the edges with **sandpaper** for a smooth finish.
-2. Paint the **cactus green** with acrylic paint. Add realistic textures or patterns.
-3. Paint the **plate brown, white, or any color** you prefer.
-4. Avoid **water-activated paint** as it may soften the clay.
+1. *(Optional)* Sand the edges with sandpaper for a smooth finish.
+2. Paint the cactus green with acrylic paint. Add realistic textures or patterns.
+3. Paint the plate brown, white, or any color you prefer.
+4. Avoid water-activated paint as it may soften the clay.
 
 <img src="images/Paint.png" alt="Painting the Cactus" width="400"/>
 
 ---
 
 ### **Step 8: Seal & Finish**
-1. Once the paint **is dry**, use **crystal sealing spray** to protect it from moisture and dust.
-2. Let the sealant dry completely before using your **cactus ring holder**.
+1. Once the paint is dry, use **crystal sealing spray** to protect it from moisture and dust.
+2. Let the sealant dry completely before using your cactus ring holder.
 
 <img src="images/Sealed.png" alt="Final Sealed Piece" width="400"/>
 
