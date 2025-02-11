@@ -26,12 +26,12 @@ Welcome to the **Air-Dry Clay Workshop!** Here are the step-by-step instructions
 You can also use **toothpicks, plastic knives, or other household objects** as substitutes.
 
 ### 🛒 Recommended Supplies:
-- [Air Dry Clay (5lb), $10.62](https://www.amazon.com/gp/product/B089T7PX27/)
-- [Pottery & Polymer Clay Tool Set (8Pcs), $9.59](https://www.amazon.com/gp/product/B08SWC2PSG/)
-- [Cook Classic Wood Rolling Pin (1Pcs), $7.72](https://www.amazon.com/gp/product/B000ARPJRM/)
-- [Acrylic Paint Set (24 Colors), $16.99](https://www.amazon.com/gp/product/B09TWQD5ZL/)
-- [Crystal Clear Acrylic Coating Spray (1Pcs), $10.15](https://www.amazon.com/gp/product/B00023JE7K/)
-- [FolkArt Acrylic Paint (2 Oz), $14.88](https://www.amazon.com/gp/product/B003W0FO4C/)
+- [Air Dry Clay (5lb)](https://www.amazon.com/gp/product/B089T7PX27/)
+- [Pottery & Polymer Clay Tool Set (8Pcs)](https://www.amazon.com/gp/product/B08SWC2PSG/)
+- [Cook Classic Wood Rolling Pin (1Pcs)](https://www.amazon.com/gp/product/B000ARPJRM/)
+- [Acrylic Paint Set (24 Colors)](https://www.amazon.com/gp/product/B09TWQD5ZL/)
+- [Crystal Clear Acrylic Coating Spray (1Pcs)](https://www.amazon.com/gp/product/B00023JE7K/)
+- [FolkArt Acrylic Paint (2 Oz)](https://www.amazon.com/gp/product/B003W0FO4C/)
 
 ---
 
