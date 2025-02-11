@@ -1,6 +1,6 @@
 # 🌵 Air-Dry Clay Workshop: Cactus Ring Holder
 
-Welcome to the **Air-Dry Clay Workshop!** This repository contains step-by-step instructions to create a **cactus ring holder clay plate** using air-dry clay. Whether you're a beginner or an experienced artist, this guide will help you craft a beautiful and functional piece.
+Welcome to the **Air-Dry Clay Workshop!** Here are the step-by-step instructions to create a **cactus ring holder clay plate** using air-dry clay. Whether you're a beginner or an experienced artist, this guide will help you craft a beautiful and functional piece.
 
 ---
 
