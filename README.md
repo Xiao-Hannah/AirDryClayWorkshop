@@ -84,7 +84,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 
 4. Cut the bottom part of the cactus to make a **flat base**, then set it aside to dry.
 
-<img src="images/Cactus_Unsmooth.png" alt="Cactus Unsmoothed" width="400"/>
+<img src="images/Cactus_Unsmoothed.png" alt="Cactus Unsmoothed" width="400"/>
 
 5. Attach the arm to the trunk using **score and slip** (see Step 3).
 
@@ -96,12 +96,15 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 
 ### **Step 5: Attach the Cactus to the Plate**
 1. Score the middle of the plate and the bottom of the cactus.
+
+ <img src="images/Connection.png" alt="Cactus Connection" width="400"/>
+ 
 2. Gently press the cactus onto the center of the plate.
 3. Use **slip** to secure the connection.
 4. Blend and smooth the seams where the pieces join.
 5. Let it sit for a few minutes to ensure stability.
 
-<img src="images/Connection.png" alt="Cactus Connection" width="400"/>
+<img src="images/Connected.png" alt="Cactus Connected" width="400"/>
 
 ---
 
