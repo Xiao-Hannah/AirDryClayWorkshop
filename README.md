@@ -40,7 +40,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Add some water (**water-clay ratio = 1:3**) and mix it with a brush or a stick.
 3. Set it aside for later use. **This slip will act as glue** to attach clay pieces together more securely.
 
-📸 *(Insert image of slip-making process here)*
+📸 ![Materials Needed](images/Materials.png)
 
 ---
 
