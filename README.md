@@ -55,7 +55,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 5. Smooth the edges with your fingers using a little slip and water.
 
 <img src="images/Slab.png" alt="Slab Process" width="400"/>
-<img src="images/Slab 2.png" alt="Slab Process" width="400"/>
+<img src="images/Slab2.png" alt="Slab Process" width="400"/>
 
 #### **Coil Method:**
 1. Take a small piece of clay.
