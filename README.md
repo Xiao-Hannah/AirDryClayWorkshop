@@ -20,7 +20,7 @@ Welcome to the **Air-Dry Clay Workshop!** This repository contains step-by-step 
 - **Extras:** Sandpaper, craving knife, acrylic coating spray, wax paper/silicone mat (for a clean & smooth surface)
 - **And the #1 tool:** Your hands!
 
-![Alt Text](images/Materials.png)
+<img src="images/Materials.png" alt="Materials Needed" width="400"/>
 
 ### 🔄 Tool Alternatives:
 You can also use **toothpicks, plastic knives, or other household objects** as substitutes.
@@ -42,7 +42,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Add some water (**water-clay ratio = 1:3**) and mix it with a brush or a stick.
 3. Set it aside for later use. **This slip will act as glue** to attach clay pieces together more securely.
 
-![Alt Text](images/Slip.png)
+<img src="images/Slip.png" alt="Slip Preparation" width="400"/>
 
 ---
 
@@ -54,14 +54,14 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 4. Use a **small bowl or cookie cutter** to cut out a circle.
 5. Smooth the edges with your fingers using a little slip and water.
 
-![Alt Text](images/Slab.png)
-![Alt Text](images/Slab 2.png)
+<img src="images/Slab.png" alt="Slab Process" width="400"/>
+<img src="images/Slab 2.png" alt="Slab Process" width="400"/>
 
 #### **Coil Method:**
 1. Take a small piece of clay.
 2. Roll it out evenly by moving your hands **inwards and outwards**.
 
-![Alt Text](images/Coil.png)
+<img src="images/Coil.png" alt="Coiling Process" width="400"/>
 
 ---
 
@@ -70,8 +70,8 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Apply **slip** to the hatched areas as glue.
 3. Smooth the surface with slip to create a **strong bond**.
 
-![Alt Text](images/Score.png)
-![Alt Text](images/Score2.png)
+<img src="images/Score.png" alt="Scoring the Clay" width="400"/>
+<img src="images/Score 2.png" alt="Scoring the Clay" width="400"/>
 
 ---
 
@@ -80,15 +80,15 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Roll out **two smaller, thinner cylinders** and bend them to mimic cactus arms.
 3. Smooth the surface with **slip** if necessary.
 
-![Alt Text](images/Cactus.png)
+<img src="images/Cactus.png" alt="Cactus" width="400"/>
 
 4. Cut the bottom part of the cactus to make a **flat base**, then set it aside to dry.
 
-![Alt Text](images/Cactus_Unsmoothed.png)
+<img src="images/Cactus_Unsmooth.png" alt="Cactus Unsmoothed" width="400"/>
 
 5. Attach the arm to the trunk using **score and slip** (see Step 3).
 
-![Alt Text](images/Cactus_Smoothed.png)
+<img src="images/Cactus_Smoothed.png" alt="Cactus Smoothed" width="400"/>
 
 6. Let the cactus dry for a while.
 
@@ -101,7 +101,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 4. Blend and smooth the seams where the pieces join.
 5. Let it sit for a few minutes to ensure stability.
 
-![Alt Text](images/Connected.png)
+<img src="images/Connection.png" alt="Cactus Connection" width="400"/>
 
 ---
 
@@ -118,7 +118,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 3. Paint the **plate brown, white, or any color** you prefer.
 4. Avoid **water-activated paint** as it may soften the clay.
 
-[Alt Text](images/Paint.png)
+<img src="images/Paint.png" alt="Painting the Cactus" width="400"/>
 
 ---
 
@@ -126,7 +126,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 1. Once the paint **is dry**, use **crystal sealing spray** to protect it from moisture and dust.
 2. Let the sealant dry completely before using your **cactus ring holder**.
 
-[Alt Text](images/Sealed.png)
+<img src="images/Sealed.png" alt="Final Sealed Piece" width="400"/>
 
 ---
 
