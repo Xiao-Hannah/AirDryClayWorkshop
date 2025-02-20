@@ -42,7 +42,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Add some water (**water-clay ratio = 1:3**) and mix it with a brush or a stick.
 3. Set it aside for later use. This slip will act as glue to attach clay pieces together more securely.
 
-<img src="images/Slip2.png" alt="Slip" width="400"/>
+<img src="images/Slip2.png" alt="Slip" width="400" height="500"/>
 
 ---
 
@@ -55,15 +55,15 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 5. Smooth the edges with your fingers using a little slip and water.
 
 <div align="center">
-  <img src="images/Slab2.1.png" alt="Slab Process" width="400" height="300"/>
-  <img src="images/Slab2.2.png" alt="Slab Process" width="400" height="300"/>
+  <img src="images/Slab2.1.png" alt="Slab Process" width="400" height="500"/>
+  <img src="images/Slab2.2.png" alt="Slab Process" width="400" height="500"/>
 </div>
 
 #### **Coil Method:**
 1. Take a small piece of clay.
 2. Roll it out evenly by moving your hands **inwards and outwards**.
 
-<img src="images/Coil2.png" alt="Coiling Process" width="400"/>
+<img src="images/Coil2.png" alt="Coiling Process" width="400" height="500"/>
 
 ---
 
