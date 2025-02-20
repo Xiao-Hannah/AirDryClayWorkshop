@@ -145,8 +145,28 @@ Your **cactus ring holder clay plate** is ready! Now your cactus ring holder cla
 ## 💡 More Creative Ideas
 
 Looking for more air-dry clay inspiration? Here are some creative projects to try:
+
+#### Scratching cat
+
+<img src="images/CatDecor1.png" alt="Cat Decor" width="400"/>
+
+#### Snowman
+
+<img src="images/Snowman1.png" alt="Snowman" width="400"/>
+
+#### Pencil Cup
+
+<img src="images/PencilCup1.png" alt="Pencil Cup" width="400"/>
+
+#### Earrings
+
+<img src="images/SnakeEarrings1.png" alt="Snake Earrings" width="400"/>
+
+[Reference](https://mymodernmet.com/air-dry-clay-ideas/)
+
+#### More ideas
 [Air Dry Clay Project ideas First-timers must try](https://medium.com/@chattkhaoula/air-dry-clay-project-ideas-first-timers-must-try-aef63de2bfe4)
+
 [Air Dry Clay Botanical Tags](https://www.diybeautify.com/2023/04/air-dry-clay-botanical-tags.html)
 
-https://mymodernmet.com/air-dry-clay-ideas/
 
