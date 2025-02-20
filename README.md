@@ -80,7 +80,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Roll out **two smaller, thinner cylinders** and bend them to mimic cactus arms.
 3. Smooth the surface with slip if necessary.
 
-<img src="images/Cactus.png" alt="Cactus" width="400"/>
+<img src="images/Cactus2.png" alt="Cactus2" width="400"/>
 
 4. Cut the bottom part of the cactus to make a **flat base**, then set it aside to dry.
 
