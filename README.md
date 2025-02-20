@@ -148,17 +148,19 @@ Looking for more air-dry clay inspiration? Here are some creative projects to tr
 
 #### Scratching cat
 
-<img src="images/CatDecor1.png" alt="Cat Decor" width="400"/>
+<img src="images/CatDecor1.png" alt="Cat" width="400"/>
 
 #### Snowman
 
 <img src="images/Snowman1.png" alt="Snowman" width="400"/>
 
-#### Pencil Cup  [Reference](https://mymodernmet.com/air-dry-clay-ideas/)
+#### Pencil Cup  
+[Reference](https://mymodernmet.com/air-dry-clay-ideas/)
 
 <img src="images/PencilCup1.png" alt="Pencil Cup" width="400"/>
 
-#### Earrings  [Reference](https://mymodernmet.com/air-dry-clay-ideas/)
+#### Earrings  
+[Reference](https://mymodernmet.com/air-dry-clay-ideas/)
 
 <img src="images/SnakeEarrings1.png" alt="Snake Earrings" width="400"/>
 
