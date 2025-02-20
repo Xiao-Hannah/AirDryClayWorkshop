@@ -55,15 +55,15 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 5. Smooth the edges with your fingers using a little slip and water.
 
 <div align="center">
-  <img src="images/Slab2.1.png" alt="Slab Process" width="500" height="350"/>
-  <img src="images/Slab2.2.png" alt="Slab Process" width="500" height="350"/>
+  <img src="images/Slab2.1.png" alt="Slab Process" width="500" height="400"/>
+  <img src="images/Slab2.2.png" alt="Slab Process" width="500" height="400"/>
 </div> 
 
 #### **Coil Method:**
 1. Take a small piece of clay.
 2. Roll it out evenly by moving your hands **inwards and outwards**.
 
-<img src="images/Coil2.png" alt="Coiling Process" width="500" height="350"/>
+<img src="images/Coil2.png" alt="Coiling Process" width="500" height="400"/>
 
 ---
 
@@ -73,8 +73,8 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 3. Smooth the surface with slip to create a strong bond.
 
 <div align="center">
-<img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="350"/>
-<img src="images/Score2.2.png" alt="Scoring the Clay" width="500" height="350"/>
+<img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="400"/>
+<img src="images/Score2.2.png" alt="Scoring the Clay" width="500" height="400"/>
 </div>
 
 ---
