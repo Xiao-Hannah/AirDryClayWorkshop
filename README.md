@@ -71,7 +71,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 1. Score both the coil surface and the outer rim of the plate using hatch marks.
 
 <div align="center">
-<img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="400" style="margin-right:50px;/>
+<img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="400" style="margin-right:50px;"/>
 <img src="images/Score2.2.png" alt="Scoring the Clay" width="500" height="400"/>
 </div>
 
