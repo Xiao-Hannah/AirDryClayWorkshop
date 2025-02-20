@@ -20,7 +20,7 @@ Welcome to the **Air-Dry Clay Workshop!** Here are the step-by-step instructions
 - **Extras:** Sandpaper, craving knife, acrylic coating spray, wax paper/silicone mat (for a clean & smooth surface)
 - **And the #1 tool:** Your hands!
 
-<img src="images/Materials.png" alt="Materials Needed" width="400"/>
+![Materials Needed](images/Material2.png)
 
 ### 🔄 Tool Alternatives:
 You can also use **toothpicks, plastic knives, or other household objects** as substitutes.
@@ -61,7 +61,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 1. Take a small piece of clay.
 2. Roll it out evenly by moving your hands **inwards and outwards**.
 
-<img src="images/Coil.png" alt="Coiling Process" width="400"/>
+![Materials Needed](images/Coil2.png)
 
 ---
 
@@ -80,15 +80,16 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Roll out **two smaller, thinner cylinders** and bend them to mimic cactus arms.
 3. Smooth the surface with slip if necessary.
 
-<img src="images/Cactus2.png" alt="Cactus2" width="400"/>
+![Materials Needed](images/Cactus2.png)
 
 4. Cut the bottom part of the cactus to make a **flat base**, then set it aside to dry.
 
-<img src="images/Cactus_Unsmoothed.png" alt="Cactus Unsmoothed" width="400"/>
+![Materials Needed](images/Cactus_Unsmoothed2.png)
+
 
 5. Attach the arm to the trunk using score and slip (see Step 3).
 
-<img src="images/Cactus_Smoothed.png" alt="Cactus Smoothed" width="400"/>
+![Materials Needed](images/Cactus_Smoothed2.png)
 
 6. Let the cactus dry for a while.
 
@@ -97,14 +98,14 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 ### **Step 5: Attach the Cactus to the Plate**
 1. Score the middle of the plate and the bottom of the cactus.
 
- <img src="images/Connection.png" alt="Cactus Connection" width="400"/>
+![Materials Needed](images/Connection2.png)
  
 2. Gently press the cactus onto the center of the plate.
 3. Use slip to secure the connection.
 4. Blend and smooth the seams where the pieces join.
 5. Let it sit for a few minutes to ensure stability.
 
-<img src="images/Connected.png" alt="Cactus Connected" width="400"/>
+![Materials Needed](images/Connected2.png)
 
 ---
 
