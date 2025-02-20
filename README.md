@@ -55,8 +55,8 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 5. Smooth the edges with your fingers using a little slip and water.
 
 <div align="center">
-  <img src="images/Slab2.1.png" alt="Slab Process" width="400"/>
-  <img src="images/Slab2.2.png" alt="Slab Process" width="400"/>
+  <img src="images/Slab2.1.png" alt="Slab Process" width="400" height="300"/>
+  <img src="images/Slab2.2.png" alt="Slab Process" width="400" height="300"/>
 </div>
 
 #### **Coil Method:**
@@ -73,8 +73,8 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 3. Smooth the surface with slip to create a strong bond.
 
 <div align="center">
-<img src="images/Score2.1.png" alt="Scoring the Clay" width="400"/>
-<img src="images/Score2.2.png" alt="Scoring the Clay" width="400"/>
+<img src="images/Score2.1.png" alt="Scoring the Clay" width="400" height="300"/>
+<img src="images/Score2.2.png" alt="Scoring the Clay" width="400" height="300"/>
 </div>
 
 ---
@@ -100,15 +100,15 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 
 ### **Step 5: Attach the Cactus to the Plate**
 1. Score the middle of the plate and the bottom of the cactus.
+   
+<img src="images/Connection2.png" alt="Cactus Connection" width="400"/>
+
 2. Gently press the cactus onto the center of the plate.
 3. Use slip to secure the connection.
 4. Blend and smooth the seams where the pieces join.
 5. Let it sit for a few minutes to ensure stability.
 
-<div align="center">
-<img src="images/Connection2.png" alt="Cactus Connection" width="400"/>
 <img src="images/Connected2.png" alt="Connected Cactus" width="400"/>
-</div>
 
 ---
 
