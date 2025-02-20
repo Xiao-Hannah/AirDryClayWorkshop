@@ -73,7 +73,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 3. Smooth the surface with slip to create a strong bond.
 
 <div align="center">
-<img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="400"/>
+<img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="400" style="margin-right:50px;/>
 <img src="images/Score2.2.png" alt="Scoring the Clay" width="500" height="400"/>
 </div>
 
