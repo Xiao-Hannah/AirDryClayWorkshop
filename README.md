@@ -154,15 +154,14 @@ Looking for more air-dry clay inspiration? Here are some creative projects to tr
 
 <img src="images/Snowman1.png" alt="Snowman" width="400"/>
 
-#### Pencil Cup
+#### Pencil Cup  [Reference](https://mymodernmet.com/air-dry-clay-ideas/)
 
 <img src="images/PencilCup1.png" alt="Pencil Cup" width="400"/>
 
-#### Earrings
+#### Earrings  [Reference](https://mymodernmet.com/air-dry-clay-ideas/)
 
 <img src="images/SnakeEarrings1.png" alt="Snake Earrings" width="400"/>
 
-[Reference](https://mymodernmet.com/air-dry-clay-ideas/)
 
 #### More ideas
 [Air Dry Clay Project ideas First-timers must try](https://medium.com/@chattkhaoula/air-dry-clay-project-ideas-first-timers-must-try-aef63de2bfe4)
