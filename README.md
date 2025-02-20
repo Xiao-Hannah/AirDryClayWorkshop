@@ -57,7 +57,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 <div align="center">
   <img src="images/Slab2.1.png" alt="Slab Process" width="400" height="500"/>
   <img src="images/Slab2.2.png" alt="Slab Process" width="400" height="500"/>
-</div>
+</div> 
 
 #### **Coil Method:**
 1. Take a small piece of clay.
