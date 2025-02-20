@@ -54,8 +54,10 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 4. Use a small bowl or cookie cutter to cut out a circle.
 5. Smooth the edges with your fingers using a little slip and water.
 
-<img src="images/Slab2.1.png" alt="Slab Process" width="400"/>
-<img src="images/Slab2.2.png" alt="Slab Process" width="400"/>
+<div align="center">
+  <img src="images/Slab2.1.png" alt="Slab Process" width="400"/>
+  <img src="images/Slab2.2.png" alt="Slab Process" width="400"/>
+</div>
 
 #### **Coil Method:**
 1. Take a small piece of clay.
@@ -70,8 +72,10 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 2. Apply slip to the hatched areas as glue.
 3. Smooth the surface with slip to create a strong bond.
 
+<div align="center">
 <img src="images/Score2.1.png" alt="Scoring the Clay" width="400"/>
 <img src="images/Score2.2.png" alt="Scoring the Clay" width="400"/>
+</div>
 
 ---
 
@@ -86,7 +90,6 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 
 <img src="images/Cactus_Unsmoothed2.png" alt="Unsmoothed Cactus" width="400"/>
 
-
 5. Attach the arm to the trunk using score and slip (see Step 3).
 
 <img src="images/Cactus_Smoothed2.png" alt="Smoothed Cactus" width="400"/>
@@ -97,15 +100,15 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 
 ### **Step 5: Attach the Cactus to the Plate**
 1. Score the middle of the plate and the bottom of the cactus.
-
-<img src="images/Connection2.png" alt="Cactus Connection" width="400"/>
- 
 2. Gently press the cactus onto the center of the plate.
 3. Use slip to secure the connection.
 4. Blend and smooth the seams where the pieces join.
 5. Let it sit for a few minutes to ensure stability.
 
+<div align="center">
+<img src="images/Connection2.png" alt="Cactus Connection" width="400"/>
 <img src="images/Connected2.png" alt="Connected Cactus" width="400"/>
+</div>
 
 ---
 
@@ -138,4 +141,12 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 Your **cactus ring holder clay plate** is ready! Now your cactus ring holder clay plate is ready! Place it on your bedside table or vanity and store your rings in a stylish, handmade way. Feel free to customize it by adding tiny clay flowers, or make it into a different plate shape.
 
 🎨 **Enjoy crafting!** 🌵✨
+
+## 💡 More Creative Ideas
+
+Looking for more air-dry clay inspiration? Here are some creative projects to try:
+[Air Dry Clay Project ideas First-timers must try](https://medium.com/@chattkhaoula/air-dry-clay-project-ideas-first-timers-must-try-aef63de2bfe4)
+[Air Dry Clay Botanical Tags](https://www.diybeautify.com/2023/04/air-dry-clay-botanical-tags.html)
+
+https://mymodernmet.com/air-dry-clay-ideas/
 
