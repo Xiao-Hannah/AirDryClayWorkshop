@@ -54,7 +54,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 4. Use a small bowl or cookie cutter to cut out a circle.
 5. Smooth the edges with your fingers using a little slip and water.
 
-<div align="center">
+<div align="left">
   <img src="images/Slab2.1.png" alt="Slab Process" width="500" height="400" style="margin-right:50px;"/>
   <img src="images/Slab2.2.png" alt="Slab Process" width="500" height="400"/>
 </div> 
@@ -70,7 +70,7 @@ You can also use **toothpicks, plastic knives, or other household objects** as s
 ### **Step 3: Score & Slip**
 1. Score both the coil surface and the outer rim of the plate using hatch marks.
 
-<div align="center">
+<div align="left">
 <img src="images/Score2.1.png" alt="Scoring the Clay" width="500" height="400" style="margin-right:50px;"/>
 <img src="images/Score2.2.png" alt="Scoring the Clay" width="500" height="400"/>
 </div>
